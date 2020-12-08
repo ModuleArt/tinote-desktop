@@ -1,5 +1,5 @@
 {
-  "name": "react-for-neu-cli",
+  "name": "tinote-desktop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,8 +13,10 @@
   "scripts": {
     "start": "webpack -p --config=configs/webpack.dev.js --watch",
     "build": "webpack -p --config=configs/webpack.prod.js",
-    "webpack": "webpack --progress",
-    "test": "react-scripts test"
+    "startW": "react-scripts start",
+    "buildW": "react-scripts build",
+    "testW": "react-scripts test",
+    "webpack": "webpack --progress"
   },
   "eslintConfig": {
     "extends": "react-app"
