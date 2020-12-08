@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^10.3.5",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.0"
   },
   "scripts": {
