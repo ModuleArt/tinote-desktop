@@ -1,15 +1,15 @@
 {
-  "appname": "myapp",
-  "appport": "0",
-  "mode": "window",
-  "window": {
-    "title": "My app",
-    "width": "1000",
-    "height": "700",
-    "fullscreen": false,
-    "alwaysontop": false,
-    "iconfile": "neutralino.png",
-    "enableinspector": false,
-    "borderlesswindow": false
-  }
+    "appname": "tinote-desktop",
+    "appport": "0",
+    "mode": "window",
+    "window": {
+        "title": "Tinote Desktop",
+        "width": "1000",
+        "height": "700",
+        "fullscreen": false,
+        "alwaysontop": false,
+        "iconfile": "tinote-desktop.png",
+        "enableinspector": false,
+        "borderlesswindow": false
+    }
 }
