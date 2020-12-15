@@ -6,6 +6,7 @@ Lightweight cross-platform planner/note-taking app (Client for MacOS, Windows, L
 
 ```bash
 $ npm i -g @neutralinojs/neu
+$ npm i react-scripts
 ```
 
 ## how to build
